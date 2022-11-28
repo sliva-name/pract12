@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PractNumber12</string>
+    <string name="apple">Яблоко</string>
+    <string name="pear">Виноград</string>
+    <string name="grape">Груша</string>
+</resources>
